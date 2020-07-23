@@ -1,0 +1,13 @@
+SentimentAnalysis/.vs/
+SentimentAnalysis/BusinessLogic/bin/
+SentimentAnalysis/BusinessLogic/obj/
+SentimentAnalysis/BusinessLogic.Test/bin/
+SentimentAnalysis/BusinessLogic.Test/obj/
+SentimentAnalysis/Persistence/bin/
+SentimentAnalysis/Persistence/obj/
+SentimentAnalysis/Persistence.Test/bin/
+SentimentAnalysis/Persistence.Test/obj/
+SentimentAnalysis/UserInterface/bin/
+SentimentAnalysis/UserInterface/obj/
+SentimentAnalysis/TestResults/
+SentimentAnalysis/packages/
